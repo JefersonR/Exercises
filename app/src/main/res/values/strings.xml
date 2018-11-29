@@ -1,0 +1,24 @@
+<resources>
+    <string name="title_home">Home</string>
+    <string name="title_maps">Map</string>
+    <string name="title_profile">User</string>
+    <string name="str_share">Share</string>
+    <string name="str_save">Save</string>
+    <string name="str_yes">yes</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_delete">Delete</string>
+    <string name="str_retry">Retry</string>
+    <string name="str_title_error">Oops, something went wrong</string>
+    <string name="str_error_msg">An error occurred while fetching data. Do you want to try again?</string>
+    <string name="str_follow">Follow</string>
+    <string name="str_wait">Wait, in development!</string>
+    <string name="str_review">Reviews</string>
+    <string name="str_about">About</string>
+    <string name="str_photo">Photos</string>
+    <string name="str_all_comments">see all 146 reviews</string>
+    <string name="str_places_empty">Empty places</string>
+    <string name="str_comment_empty">Opa, the comments is empty</string>
+    <string name="str_photo_empty">No Photo found</string>
+    <string name="str_choose_app">Choose a app</string>
+    <string name="str_is_good">%s is really good!</string>
+</resources>

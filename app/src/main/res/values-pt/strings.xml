@@ -1,0 +1,24 @@
+<resources>
+    <string name="title_home">Home</string>
+    <string name="title_maps">Mapa</string>
+    <string name="title_profile">Usuário</string>
+    <string name="str_share">Compartilhar</string>
+    <string name="str_save">Salvar</string>
+    <string name="str_yes">Sim</string>
+    <string name="str_cancel">Cancelar</string>
+    <string name="str_delete">Deletar</string>
+    <string name="str_retry">Repetir</string>
+    <string name="str_title_error">Ops, alguma coisa errada</string>
+    <string name="str_error_msg">Um erro ocorreu. Gostaria de tentar novamente?</string>
+    <string name="str_follow">Seguir</string>
+    <string name="str_wait">Aguarde, em desenvolvimento!</string>
+    <string name="str_review">Reviews</string>
+    <string name="str_about">Sobre</string>
+    <string name="str_photo">Fotos</string>
+    <string name="str_all_comments">ver todos os 146 reviews</string>
+    <string name="str_places_empty">Nenhum lugar encontrado</string>
+    <string name="str_comment_empty">Opa, nenhum comentário no momento!</string>
+    <string name="str_photo_empty">Nenhuma foto no momento!</string>
+    <string name="str_choose_app">Escolha um aplicativo</string>
+    <string name="str_is_good">%s é muito bom!</string>
+</resources>
