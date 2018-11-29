@@ -69,12 +69,12 @@ public class MainPresenter extends BasePresenter implements MainContract.Present
     private void ListFragmentRoute() {
         if (listFragment == null)
             listFragment = ListFragment.newInstance();
-        mView.onNextFragment(listFragment);
+        mView.onNextFragment(listFragment, itemID);
     }
 
     private void ProfileFragmentRoute() {
         if (profileFragment == null)
             profileFragment = ProfileFragment.newInstance();
-        mView.onNextFragment(profileFragment);
+        mView.onNextFragment(profileFragment, itemID);
     }
 }

@@ -42,10 +42,12 @@ public class MainActivity extends BaseActivity implements MainContract.View {
     @Override
     protected void configView() {
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+
     }
 
     @Override
-    public void onNextFragment(@NonNull Fragment fragment) {
+    public void onNextFragment(@NonNull Fragment fragment, int itemID) {
+        navigation.setSelectedItemId(itemID);
         new ActivityUtils().replaceFragment(getSupportFragmentManager(), fragment, R.id.container_main);
     }
 

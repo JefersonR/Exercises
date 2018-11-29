@@ -1,0 +1,16 @@
+﻿Comments
+
+Architecture:
+MVP pattern, it is used for building user interfaces. In general, the MVP pattern allows separating the presentation layer from the logic.
+Facilitates maintenance and testing.
+
+Third party libraries:
+Butterknife - Facilitates integration with XML layout. Decrease code.
+Retrofit and okhttp - Facilitates requests.
+Facebook shimmer - animation in load;
+Picasso - loand and cache images.
+
+Improvements:
+Developing tests, time was not enough.
+Improve some parts of the code.
+In the application add search filter, paging and UX and UI improvement.

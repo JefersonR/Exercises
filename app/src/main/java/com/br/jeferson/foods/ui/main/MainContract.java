@@ -9,7 +9,7 @@ import com.br.jeferson.foods.ui.bases.main.activity.BaseContract;
 public interface MainContract {
 
     interface View extends BaseContract.View {
-        void onNextFragment(@NonNull Fragment fragment);
+        void onNextFragment(@NonNull Fragment fragment, int itemID);
 
         void inDevelopment();
 
